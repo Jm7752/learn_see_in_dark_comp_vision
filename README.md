@@ -4,3 +4,4 @@ This is Jacky and Jeffrey version of Learning to See in the Dark. The preexistin
 
 TraininSony_Dark_vision-Pyramid_With_automatic_Gain.ipynb <- Performs the Pyramid with Auto Luminance Gain
 TraininSony_Dark_vision_Unet.ipynb <- Performs our baseline Unet Reconstruction
+TraininSony_Dark_vision_MW-CNN.ipynb <- Performs our baseline Multiwavelet CNN reconstruction
